@@ -1,24 +1,49 @@
-## Hi there 👋, I'm Senal Liyanage!
+## 👋 Hi, I'm **Senal Liyanage**  
+🔬 Computational Chemist | 🧠 Molecular Modeler | ⚛️ MD Enthusiast
 
-I'm a computational chemist with a passion for molecular modeling, quantum mechanics, and biophysics. I thrive on solving complex problems through simulation and advanced theoretical methods.
+I specialize in molecular modeling, quantum chemistry, and biophysics — solving complex problems using simulation and advanced theoretical techniques.
+
+![GitHub followers](https://img.shields.io/github/followers/fr-0zt?label=Follow&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=fr-0zt&color=blue)
+
+---
 
 ### 🔭 Current Projects
-- Investigating the **effects of ionic liquids** on squaraine-based fluorescent materials through **TD-DFT and EFP/TDDFT** calculations.
-- Modeling **lipid membrane disruption** by ionic liquids using **molecular dynamics (MD)** simulations.
-- Exploring the **binding dynamics of TMPyP4 with G-quadruplex DNA** using **free-energy calculations** and MD simulations.
+- 🧪 [**TD-DFT/EFP Simulations**](https://github.com/fr-0zt/project-td-dft): Effects of ionic liquids on squaraine-based dyes.
+- 🧬 [**MD of IL-Membrane Interactions**](https://github.com/fr-0zt/project-md-bilayer): Modeling lipid membrane disruption by ionic liquids.
+- 🧷 [**Free Energy of TMPyP4/G4 DNA Binding**](https://github.com/fr-0zt/project-tmpyp4): Investigating G-quadruplex interactions with porphyrin-based drugs.
 
-### 🌱 What I’m Learning
-- Advanced **EFP/TDDFT methods** for modeling complex systems.
-- Exploring new tools for automating **quantum mechanical region setups** and data analysis with **Python**.
+---
 
-### 👯 Collaboration
-- I'm open to collaborations on **molecular dynamics**, **quantum chemistry** simulations, and **thermodynamic modeling**. Let’s work together on tackling complex challenges in **biomolecular systems** or **material science**!
+### 🛠️ Tools
+- 🧮 **Quantum Chemistry**: Q-Chem, GAMESS, Gaussian, TDDFT, EFP
+- 🔬 **Molecular Dynamics**: AMBER, GROMACS, VMD, cpptraj
+- 💻 **Scripting & Analysis**: Python, Bash, Pandas, Matplotlib, MDAnalysis
+- ☁️ **HPC & Automation**: SLURM, GitHub Actions, job scripting on clusters
+
+---
+
+### 👯 Open to Collaboration
+I’m happy to collaborate on:
+- **Molecular dynamics simulations**
+- **Quantum chemical modeling**
+- **Free energy and thermodynamic analyses**
+- Projects in **biophysics**, **material science**, or **drug discovery**
+
+---
 
 ### 💬 Ask Me About
-- **Quantum Chemistry**: DFT, TD-DFT, EFP methods, and their applications in studying molecular systems.
-- **Molecular Dynamics**: Free energy calculations, protein-ligand interactions, and lipid bilayer studies.
-- **Data Analysis Automation**: Using Python for custom computational tools.
+- ⚛️ **Quantum Chemistry**: TD-DFT, EFP, excited state modeling
+- 🔄 **Molecular Dynamics**: Free energy methods, ligand binding, lipid bilayers
+- ⚙️ **Automation**: Python scripting for workflows and post-processing
 
-### 📫 How to Reach Me
-- You can reach me via email at [sdd313@msstate.edu]
+---
 
+### 📫 Get in Touch
+- 📧 [sdd313@msstate.edu](mailto:sdd313@msstate.edu)
+- 🧾 [Google Scholar](https://scholar.google.com/citations?user=DEt6kbQAAAAJ&hl=en)
+
+---
+
+### 📈 GitHub Stats
+![fr-0zt's GitHub stats](https://github-readme-stats.vercel.app/api?username=fr-0zt&show_icons=true&theme=default)
