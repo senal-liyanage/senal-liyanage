@@ -8,7 +8,7 @@ I specialize in molecular modeling, quantum chemistry, and biophysics — solvin
 
 ---
 
-### 🔭 Current Projects
+### 🔭 Projects
 - 🧪 [**TD-DFT/EFP Simulations**](https://github.com/fr-0zt/project-td-dft): Effects of ionic liquids on squaraine-based dyes.
 - 🧬 [**MD of IL-Membrane Interactions**](https://github.com/fr-0zt/project-md-bilayer): Modeling lipid membrane disruption by ionic liquids.
 - 🧷 [**Free Energy of TMPyP4/G4 DNA Binding**](https://github.com/fr-0zt/project-tmpyp4): Investigating G-quadruplex interactions with porphyrin-based drugs.
