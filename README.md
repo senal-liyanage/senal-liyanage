@@ -1,39 +1,46 @@
 # Hi, I'm **Senal Liyanage**
 
-**Computational chemist working at the interface of molecular simulation, quantum chemistry, and scientific software.**
+**Computational chemist specializing in molecular simulation, quantum-chemical analysis, and scientific workflow development.**
 
-I build reproducible workflows for molecular dynamics, electronic-structure analysis, and research automation, with a strong interest in HPC-enabled science and practical tooling for computational chemistry.
+My work centers on using computation to study chemically and biologically relevant systems, with particular interests in molecular dynamics, electronic-structure methods, soft-matter and polymer systems, and reproducible research workflows for high-performance computing environments.
 
 ---
 
-## What I work on
-- Molecular dynamics workflows for biomolecular and soft-matter systems
-- TDDFT/Q-Chem post-processing and spectral interpretation
-- Scientific Python tools for chemistry and simulation analysis
-- HPC job automation and reproducible computational workflows
-- Computational support for structurally focused biophysical research
+## Research interests
+- Molecular dynamics simulations of complex chemical and biomolecular systems
+- Polymer, nanoparticle, and ionic-liquid modeling
+- TDDFT and quantum-chemical post-processing
+- Simulation analysis and scientific software development in Python
+- Reproducible HPC workflows for computational chemistry
 
 ---
 
 ## Selected repositories
-- [**qctddft**](https://github.com/fr-0zt/qctddft) — A command-line toolkit for TDDFT post-processing from Q-Chem, including spectrum generation, spectral-region assignment, and clustering of representative structures.
-- [**chemistry-analysis-tools**](https://github.com/fr-0zt/chemistry-analysis-tools) — Lightweight Python utilities for molecule handling and partial-charge analysis.
-- [**AmberMD-Scripting**](https://github.com/fr-0zt/AmberMD-Scripting) — Shell-based helpers for preparing and running AMBER molecular dynamics simulations.
+- [**qctddft**](https://github.com/fr-0zt/qctddft) — A command-line toolkit for TDDFT post-processing from Q-Chem, including spectral analysis, region assignment, and clustering of representative structures.
+- [**chemistry-analysis-tools**](https://github.com/fr-0zt/chemistry-analysis-tools) — Python utilities for chemistry data handling, molecule-file cleanup, and partial-charge analysis.
+- [**AmberMD-Scripting**](https://github.com/fr-0zt/AmberMD-Scripting) — Shell-based utilities for preparing and running AMBER molecular dynamics simulations.
 
 ---
 
-## Toolkit
-**Simulation & modeling:** GROMACS, AMBER, Q-Chem, Gaussian, GAMESS  
-**Analysis & scripting:** Python, Bash, Pandas, Matplotlib, MDAnalysis  
-**Compute & automation:** SLURM, Linux, workflow automation, reproducible HPC usage
+## Methods and tools
+**Molecular simulation:** GROMACS, AMBER  
+**Quantum chemistry:** Q-Chem, Gaussian, GAMESS, TDDFT  
+**Analysis and scripting:** Python, Bash, Pandas, Matplotlib, MDAnalysis  
+**Computing:** SLURM, Linux, workflow automation, reproducible HPC practice
 
 ---
 
-## Current interests
-- Polymer and nanoparticle simulation
-- Ionic liquids and biomolecular interactions
-- Research software and workflow design
-- Connecting computation with experimental structural biology
+## Current focus
+I am especially interested in computational studies of soft materials and chemically tunable systems, including polymers, nanoparticles, and ionic-liquid-containing environments, as well as in building practical tools that make simulation workflows more robust, transparent, and scalable.
+
+---
+
+## Collaboration
+I am interested in collaborations involving:
+- molecular simulation and mechanism-driven modeling
+- quantum-chemical analysis of molecular systems
+- simulation workflow design and automation
+- computational chemistry software and analysis pipelines
 
 ---
 
