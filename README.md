@@ -45,7 +45,7 @@ I am interested in collaborations involving:
 ---
 
 ## Get in touch
-- 📧 [sdd313@msstate.edu](mailto:sdd313@msstate.edu)
+- 📧 [sliyanage@tougaloo.edu](mailto:sliyanage@tougaloo.edu)
 - 🧾 [Google Scholar](https://scholar.google.com/citations?user=DEt6kbQAAAAJ&hl=en)
 
 ---
