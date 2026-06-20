@@ -16,9 +16,10 @@ My work uses computation to study chemically and biologically relevant systems, 
 ---
 
 ## Selected open-source repositories
-- [**qctddft**](https://github.com/fr-0zt/qctddft) — A command-line toolkit for TDDFT post-processing from Q-Chem, including spectral analysis, region assignment, and clustering of representative structures.
-- [**chemistry-analysis-tools**](https://github.com/fr-0zt/chemistry-analysis-tools) — Python utilities for chemistry data handling, molecule-file cleanup, and partial-charge analysis.
-- [**AmberMD-Scripting**](https://github.com/fr-0zt/AmberMD-Scripting) — Shell-based utilities for preparing and running AMBER molecular dynamics simulations.
+- [**qctddft**](https://github.com/senal-liyanage/qctddft) — A command-line toolkit for TDDFT post-processing from Q-Chem, including spectral analysis, region assignment, and clustering of representative structures.
+- [**chemistry-analysis-tools**](https://github.com/senal-liyanage/chemistry-analysis-tools) — Python utilities for chemistry data handling, molecule-file cleanup, partial-charge analysis, and molecular-simulation analysis scaffolds.
+- [**AmberMD-Scripting**](https://github.com/senal-liyanage/AmberMD-Scripting) — Shell-based utilities for preparing and running AMBER molecular dynamics simulations.
+- [**polymer-tool**](https://github.com/senal-liyanage/polymer-tool) — PLGA-first polymer/nanoparticle model-preparation workflow with CLI/GUI interfaces and downstream handoff bundles.
 
 ---
 
