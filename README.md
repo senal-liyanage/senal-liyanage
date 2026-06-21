@@ -1,6 +1,6 @@
 # Hi, I'm **Senal Liyanage**
 
-**Computational chemist focused on molecular simulation, quantum-chemical analysis, and research software development.**
+**Computational chemist focused on molecular simulation, quantum-chemical analysis, scientific workflows, and research software development.**
 
 My work uses computation to study chemically and biologically relevant systems, with particular interests in molecular dynamics, electronic-structure methods, soft matter, polymer and nanoparticle systems, and reproducible workflows for high-performance computing.
 
@@ -15,11 +15,11 @@ My work uses computation to study chemically and biologically relevant systems, 
 
 ---
 
-## Selected open-source repositories
+## Selected public repositories and portfolio notes
 - [**qctddft**](https://github.com/senal-liyanage/qctddft) — A command-line toolkit for TDDFT post-processing from Q-Chem, including spectral analysis, region assignment, and clustering of representative structures.
 - [**chemistry-analysis-tools**](https://github.com/senal-liyanage/chemistry-analysis-tools) — Python utilities for chemistry data handling, molecule-file cleanup, partial-charge analysis, and molecular-simulation analysis scaffolds.
 - [**AmberMD-Scripting**](https://github.com/senal-liyanage/AmberMD-Scripting) — Shell-based utilities for preparing and running AMBER molecular dynamics simulations.
-- [**polymer-tool**](https://github.com/senal-liyanage/polymer-tool) — PLGA-first polymer/nanoparticle model-preparation workflow with CLI/GUI interfaces and downstream handoff bundles.
+- **polymer/nanoparticle workflow** — Ongoing PLGA-focused model-preparation work for chain construction, nanoparticle seed packing, QC, provenance, and downstream simulation handoff. Source code is currently private while related work is under publication preparation; a public project note is maintained on my portfolio site.
 
 ---
 
@@ -36,6 +36,13 @@ I am especially interested in computational studies of chemically tunable soft-m
 
 ---
 
+## Portfolio
+- 🌐 [Public portfolio site](https://senal-liyanage.github.io)
+- 🧾 [Google Scholar](https://scholar.google.com/citations?user=DEt6kbQAAAAJ&hl=en)
+- 🔬 [ORCID](https://orcid.org/0000-0002-9166-0527)
+
+---
+
 ## Collaboration interests
 I am interested in collaborations involving molecular simulation, mechanism-driven modeling, quantum-chemical analysis, simulation workflow design, and computational chemistry software.
 
@@ -43,4 +50,4 @@ I am interested in collaborations involving molecular simulation, mechanism-driv
 
 ## Get in touch
 - 📧 [sliyanage@tougaloo.edu](mailto:sliyanage@tougaloo.edu)
-- 🧾 [Google Scholar](https://scholar.google.com/citations?user=DEt6kbQAAAAJ&hl=en)
+- 💼 [LinkedIn](https://www.linkedin.com/in/senal-liyanage/)
